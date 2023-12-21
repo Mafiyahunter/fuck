@@ -1,1 +1,1 @@
-import Faroo
+import Mafiya
