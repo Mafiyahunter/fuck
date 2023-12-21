@@ -1,1 +1,1 @@
-import Mafiya.cpython-311
+import Mafiya
